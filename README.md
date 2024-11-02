@@ -2,6 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akhan3247.akhan3247" />
 
 <div align = "center">
+  
 - 🔭 I’m currently working on a homework app for schools in Rwanda
   
 - 🌱 I’m currently learning Go!
